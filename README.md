@@ -1,4 +1,4 @@
-# Register APIs in Axway API Manager
+# Virtualilze APIs in Axway API Manager
 
 This project enables you to quickly deploy/virtualize APIs of your choice to Axway API Manager and mock their output by using [Stoplight Prism server](https://stoplight.io/open-source/prism). It is useful for a quick demo, PoC or self-learning. The APIs must be provided in the `./APIs/mocked` folder as OAS specifications in JSON format.
 
